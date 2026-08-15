@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejas-mahamuni/leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/tejas-mahamuni/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/tejas-mahamuni/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/tejas-mahamuni/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tejas-mahamuni/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
