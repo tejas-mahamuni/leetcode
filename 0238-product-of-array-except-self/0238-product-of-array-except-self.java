@@ -10,10 +10,10 @@ class Solution {
             prefix *= nums[i];
         }
 
-        int suffix = 1;
+        int postfix = 1;
         for (int i=n-1; i>=0; i--) {
-            res[i] *= suffix;
-            suffix *= nums[i];
+            res[i] *= postfix;
+            postfix *= nums[i];
         }
 
         return res;
