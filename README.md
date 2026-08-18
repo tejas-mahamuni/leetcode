@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tejas-mahamuni/leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/tejas-mahamuni/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tejas-mahamuni/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tejas-mahamuni/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tejas-mahamuni/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/tejas-mahamuni/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejas-mahamuni/leetcode/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tejas-mahamuni/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tejas-mahamuni/leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejas-mahamuni/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
