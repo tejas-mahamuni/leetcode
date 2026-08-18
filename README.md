@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tejas-mahamuni/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/tejas-mahamuni/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tejas-mahamuni/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -86,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejas-mahamuni/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
