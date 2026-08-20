@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tejas-mahamuni/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tejas-mahamuni/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejas-mahamuni/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tejas-mahamuni/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tejas-mahamuni/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
