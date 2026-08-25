@@ -5,9 +5,10 @@ class Solution {
         for (int i : nums) {
             set.add(i);
         }
+
         int max = 0;
 
-        for (int i : set) {
+        for (int i : nums) {
             int count = 0;
             int k = i;
 
@@ -19,7 +20,6 @@ class Solution {
                 count++;
                 k++;
             }
-
             max = Math.max(max, count);
         }
         return max;
