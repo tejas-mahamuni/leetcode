@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tejas-mahamuni/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejas-mahamuni/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejas-mahamuni/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tejas-mahamuni/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tejas-mahamuni/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tejas-mahamuni/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tejas-mahamuni/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 ## Bit Manipulation
 |  |
