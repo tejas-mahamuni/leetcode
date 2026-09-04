@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/tejas-mahamuni/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tejas-mahamuni/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejas-mahamuni/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-mahamuni/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejas-mahamuni/leetcode/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/tejas-mahamuni/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -188,5 +190,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-mahamuni/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
