@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tejas-mahamuni/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tejas-mahamuni/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tejas-mahamuni/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tejas-mahamuni/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-mahamuni/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tejas-mahamuni/leetcode/tree/master/0075-sort-colors) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejas-mahamuni/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tejas-mahamuni/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-mahamuni/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/tejas-mahamuni/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/tejas-mahamuni/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-mahamuni/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
