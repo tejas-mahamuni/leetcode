@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tejas-mahamuni/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tejas-mahamuni/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/tejas-mahamuni/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/tejas-mahamuni/leetcode/tree/master/1095-find-in-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tejas-mahamuni/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
