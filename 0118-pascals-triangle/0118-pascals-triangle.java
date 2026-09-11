@@ -1,22 +1,22 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> arr = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
 
         for (int i=0; i<numRows; i++) {
             List<Integer> row = new ArrayList<>();
-
             for (int j=0; j<=i; j++) {
                 if (j == 0 || i == j) {
                     row.add(1);
                 }
                 else {
-                    List<Integer> prevRow = arr.get(i-1);
-                    int sum = prevRow.get(j-1) + prevRow.get(j);
-                    row.add(sum);
+                    List<Integer> prev = list.get(i-1);
+                    int num = prev.get(j-1) + prev.get(j);
+                    
+                    row.add(num);
                 }
             }
-            arr.add(row);
+            list.add(row);
         }
-        return arr;
+        return list;
     }
 }
