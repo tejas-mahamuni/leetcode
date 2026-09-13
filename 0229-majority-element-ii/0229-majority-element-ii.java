@@ -1,48 +1,45 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        List<Integer> result = new ArrayList<>();
-        if (nums == null || nums.length == 0) return result;
+        List<Integer> res = new ArrayList<>();
 
-        int candidate1 = 0;
-        int candidate2 = 0;
-        int count1 = 0;
-        int count2 = 0;
-
-        for (int i : nums) {
-            if (i == candidate1) {
-                count1++;
-            }
-            else if (i == candidate2) {
-                count2++;
-            }
-            else if (count1 == 0) {
-                candidate1 = i;
-                count1 = 1;
-            }
-            else if (count2 == 0) {
-                candidate2 = i;
-                count2 = 1;
-            }else {
-                count1--;
-                count2--;
-            }
+        if (nums == null || nums.length == 0) {
+            return res;
         }
 
-        count1 = 0;
-        count2 = 0;
+        int ele1 = 0;
+        int ele2 = 0;
 
-        for (int i : nums) {
-            if (i == candidate1) {
-                count1++;
+        int cnt1 = 0;
+        int cnt2 = 0;
+
+        for (int i=0; i<nums.length; i++) {
+            if (cnt1 == 0 && ele2 != nums[i]) {
+                cnt1 = 1;
+                ele1 = nums[i];
             }
-            else if (i == candidate2) {
-                count2++;
+            else if (cnt2 == 0 && ele1 != nums[i]) {
+                cnt2 = 1;
+                ele2 = nums[i];
+            }
+            else if (ele1 == nums[i]) cnt1++;
+            else if (ele2 == nums[i]) cnt2++;
+            else {
+                cnt1--;
+                cnt2--;
             }
         }
+        cnt1 = 0;
+        cnt2 = 0;
 
-        if (count1 > nums.length/3) result.add(candidate1);
-        if (count2 > nums.length/3 && candidate1 != candidate2) result.add(candidate2);
+        for (int i : nums) {
+            if (i == ele1) cnt1++;
+            if (i == ele2) cnt2++;
+        }
+
+        if (cnt1 > nums.length/3) res.add(ele1);
+        if (cnt2 > nums.length/3 && ele1 != ele2) res.add(ele2);
+
+        return res;
         
-        return result;
     }
 }
