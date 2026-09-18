@@ -1,55 +1,64 @@
 class Solution {
     public int reversePairs(int[] nums) {
-        return mergeSort(nums, 0, nums.length-1);
+        return sort(nums, 0, nums.length-1);
     }
 
-    static void merge (int[] arr, int low, int mid, int high) {
-        int left = low;
-        int right = mid + 1;
+    static void merge(int[] arr, int low, int mid, int high) {
+        int[] temp = new int[high-low+1];
 
-        ArrayList<Integer> temp = new ArrayList<>();
+        int left = low;
+        int right = mid+1;
+        int k = 0;
 
         while (left <= mid && right <= high) {
-            if (arr[left] < arr[right]) {
-                temp.add(arr[left++]);
+            if (arr[left] <= arr[right]) {
+                temp[k++] = arr[left++];
             }
             else {
-                temp.add(arr[right++]);
+                temp[k++] = arr[right++];
             }
         }
 
         while (left <= mid) {
-            temp.add(arr[left++]);
+            temp[k++] = arr[left++];
         }
+
         while (right <= high) {
-            temp.add(arr[right++]);
+            temp[k++] = arr[right++];
         }
 
         for (int i=low; i<=high; i++) {
-            arr[i] = temp.get(i - low);
+            arr[i] = temp[i-low];
         }
     }
 
-    static int countPairs (int arr[], int low, int mid, int high) {
+    static int sort (int[] arr, int low, int high) {
         int cnt = 0;
-        int right = mid+1;
-        for (int i=low; i<=mid; i++) {
-            while (right <= high && (long) arr[i] > 2L*arr[right]) {
-                right++;
-            }
-            cnt += (right - (mid + 1));
+
+        if (low >= high){
+            return cnt;
         }
+
+        int mid = (low + high) / 2;
+
+        cnt += sort (arr, low, mid);
+        cnt += sort (arr, mid+1, high);
+        cnt += countPairs (arr, low, mid, high);
+        merge (arr, low, mid, high);
+
         return cnt;
     }
 
-    static int mergeSort (int arr[], int low, int high) {
+    static int countPairs(int[] arr, int low, int mid, int high) {
         int cnt = 0;
-        if (low < high) {
-            int mid = (low + high) / 2;
-            cnt += mergeSort (arr, low, mid);
-            cnt += mergeSort (arr, mid+1, high);
-            cnt += countPairs(arr, low, mid, high);
-            merge(arr, low, mid, high);
+
+        int right = mid+1;
+
+        for (int i=low; i<=mid; i++) {
+            while (right <= high && arr[i] > 2L * arr[right]) {
+                right++;
+            }
+            cnt += right - (mid+1);
         }
         return cnt;
     }
