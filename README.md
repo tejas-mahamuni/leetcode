@@ -247,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tejas-mahamuni/leetcode/tree/master/0050-powx-n) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
