@@ -8,18 +8,20 @@ class Solution {
 
         int max = 0;
 
-        for (int i : nums) {
-            int count = 0;
-            int k = i;
+        for (int item : set) {
 
-            if (set.contains(k-1)) {
+            if(set.contains(item-1)) {
                 continue;
             }
+
+            int count = 0;
+            int k = item;
 
             while (set.contains(k)) {
                 count++;
                 k++;
-            }
+            } 
+
             max = Math.max(max, count);
         }
         return max;
