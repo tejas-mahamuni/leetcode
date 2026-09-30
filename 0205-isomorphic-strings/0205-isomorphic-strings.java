@@ -12,7 +12,6 @@ class Solution {
             char replacement = t.charAt(i);
 
             if (!map.containsKey(original)) {
-
                 if (set.contains(replacement)) {
                     return false;
                 }
