@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/tejas-mahamuni/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/tejas-mahamuni/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tejas-mahamuni/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tejas-mahamuni/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejas-mahamuni/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejas-mahamuni/leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tejas-mahamuni/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
