@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tejas-mahamuni/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tejas-mahamuni/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejas-mahamuni/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tejas-mahamuni/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0912-sort-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tejas-mahamuni/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tejas-mahamuni/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0525-contiguous-array) |
