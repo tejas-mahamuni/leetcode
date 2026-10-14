@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tejas-mahamuni/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejas-mahamuni/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-mahamuni/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tejas-mahamuni/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejas-mahamuni/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tejas-mahamuni/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejas-mahamuni/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejas-mahamuni/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejas-mahamuni/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/tejas-mahamuni/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejas-mahamuni/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejas-mahamuni/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -359,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejas-mahamuni/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tejas-mahamuni/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
